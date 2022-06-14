@@ -53,6 +53,9 @@ software environment.
 
 ## Resources Related to the OHBM 2022 Talk
 
+These resources explain the various tools discussed in the OHBM talk
+specifically.
+
 * Data Processing
   * [fMRIprep](https://fmriprep.org/). I recommend the fMRIprep sequence of
     tutorials from [Andy's Brain Book](https://andysbrainbook.readthedocs.io/en/latest/fMRI_Short_Course/fMRI_Intro.html).
@@ -84,3 +87,7 @@ software environment.
     tutorials for Neuropythy can be found in the GitHub repository
     [noahbenson/neuropythy-tutorials](https://github.com/noahbenson/neuropythy-tutorials).
     
+## Additional Resources
+
+* [NeuroStars](https://neurostars.org/) is a question-and-answer forum where one
+  can post neuroscience questions that aren't covered in these tutorials!
