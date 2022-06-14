@@ -31,12 +31,13 @@ software environment.
   out-dated, but it is still very useful for understanding the basics of
   cortical geometry and how neuroscience software tends to represent the
   structural data from MRI scans.
-* **Retinotopic Maps**. Each visual area has a retinotopic map, that is, a
-  mapping of the retina onto the visual field. Retinotopic maps are determined
-  by solving what is called a "population receptive field" (pRF) model for each
-  voxel in the visual cortex. The pRF model explains the BOLD respons in terms
-  of the visual stimulus during an fMRI experiment. These resources are related
-  to retinotopic maps and may be useful for understanding them.
+* **Retinotopic Maps**. Each visual area has a retinotopic map: that is, a
+  mapping of the retina (or, equivalently, the visual field) onto the cortical
+  surface of that visual area. Retinotopic maps are determined by solving what
+  is called a "population receptive field" (pRF) model for each voxel in the
+  visual cortex. The pRF model explains the BOLD respons in terms of the visual
+  stimulus during an fMRI experiment. These resources are related to retinotopic
+  maps and may be useful for understanding them.
   * [VistaSoft PRF Tutorial](https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/Retinotopy_Tutorial).
     This tutorial on the VistaSoft suite (for Matlab) to solve pRF models and to
     analyze retinotopic maps.
@@ -90,4 +91,4 @@ specifically.
 ## Additional Resources
 
 * [NeuroStars](https://neurostars.org/) is a question-and-answer forum where one
-  can post neuroscience questions that aren't covered in these tutorials!
+  can post neuroscience questions that aren't covered in these resources!
